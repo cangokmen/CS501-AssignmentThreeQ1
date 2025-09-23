@@ -1,0 +1,1 @@
+This assignment requires creating a layout with a Row split into 25% and 75% sections. Inside the larger section, add a Column with three children using weighted proportions (e.g., 2:3:5), styled with colors and labels, and upload the code with a README to GitHub.
