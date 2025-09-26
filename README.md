@@ -1,1 +1,18 @@
-This assignment requires creating a layout with a Row split into 25% and 75% sections. Inside the larger section, add a Column with three children using weighted proportions (e.g., 2:3:5), styled with colors and labels, and upload the code with a README to GitHub.
+# Assignment Three - Q1: Row & Column Weight Split Layout
+
+## Overview
+This project demonstrates how to use **Jetpack Compose**’s `weight` modifier to build proportional layouts in Android. The screen is divided into two sections:
+
+- A **Row** that splits the screen horizontally into:
+  - **25% width (red)** → A simple column with text.
+  - **75% width** → A more complex section.
+- Inside the larger section, a **Column** is divided vertically into three weighted parts with a **2:3:5 ratio**, each with a distinct background color and text label.
+
+This layout helps visualize how space can be allocated flexibly across UI components without using fixed dimensions.
+
+---
+
+## How to Use the App
+1. Clone this repository:
+   ```bash
+   git clone <your-repo-link>
